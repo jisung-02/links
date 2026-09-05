@@ -8,3 +8,4 @@
 - [ ] [아름다운 코드에 대하여](https://kciter.so/posts/what-is-beautiful-code/)
 - [ ] [AI 에이전트를 만드는 방법](https://kciter.so/posts/how-to-build-an-agent/)
 - [ ] [UX 관점에서 바라보는 MCP](https://kciter.so/posts/mcp-from-ux-perspective/)
+- [ ] [멀티패러다임 프로그래밍과 리스트 프로세싱](https://kciter.so/posts/multi-paradigm-programming-book/)
