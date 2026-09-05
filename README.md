@@ -7,3 +7,4 @@
 - [ ] [Type-Driven Development](https://kciter.so/posts/type-driven-development/)
 - [ ] [아름다운 코드에 대하여](https://kciter.so/posts/what-is-beautiful-code/)
 - [ ] [AI 에이전트를 만드는 방법](https://kciter.so/posts/how-to-build-an-agent/)
+- [ ] https://kciter.so/posts/mcp-from-ux-perspective/
